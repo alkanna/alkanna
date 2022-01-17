@@ -2,6 +2,8 @@
 <img align='right' src="https://media0.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="230">
 <h2> I'm Khiman! <img src="https://media2.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" width="50"></h2>
  
+ ![](https://komarev.com/ghpvc/?username=alkanna)
+ 
 - 🚑 I'm a Tech Support Engineer at the Treep and I love problem solving.
 - 🏃🏻‍♀️ My mission is to learn and grow, always!
 - My favorite open source project right now, which I sometimes contibute to, is [Carbon components svelte](https://github.com/carbon-design-system/carbon-components-svelte)
