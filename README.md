@@ -26,8 +26,6 @@
 
 
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkanna&theme=blue-green" alt="alkanna" /></p>
-
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkanna&show_icons=true&theme=radical" alt="alkanna" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alkanna&show_icons=true&theme=tokyonight_duo" alt="alkanna" /></p>
