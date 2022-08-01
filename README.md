@@ -22,6 +22,8 @@
  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
  <a href="https://cloud.google.com/" title="GCP"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="GCP" width="40px" height="40px"></a>
  <a href="https://kubernetes.io" title="K8s"><img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="K8s" width="40px" height="40px"></a>
+ <a href="https://reactjs.org" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="K8s" width="40px" height="40px"></a>
+ <a href="https://spectrum.adobe.com/" title="Adobe spectrum"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe.svg" alt="K8s" width="40px" height="40px"></a>
  <a href="https://clickup.com" title="Clickup"><img src="https://clickup.com/landing/images/brand-assets/logo-symbol-color.svg" alt="Clickup" width="40px" height="40px"></a>
 
 
