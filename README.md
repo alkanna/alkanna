@@ -4,7 +4,7 @@
  
  ![](https://komarev.com/ghpvc/?username=alkanna)
  
-- 🚑 I'm a Tech Support Engineer at the Treep and I love problem solving.
+- 🚑 I'm a Reliability Developer at the Treep and I love problem solving.
 - 🏃🏻‍♀️ My mission is to learn and grow, always!
 - My favorite open source project right now, which I sometimes contibute to, is [Carbon components svelte](https://github.com/carbon-design-system/carbon-components-svelte)
 - ✌🏻 Apart from Coding I love 🚵, 🧗‍♂️ and 🎸</p>
